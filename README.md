@@ -2,7 +2,7 @@
 
 ### Simple signup and authentication using React
 
-![Image of Authentication Design](https://github.com/adhithya90/ReactForDesigners/tree/master/public/readmeImage.png)
+![Image of Authentication Design](https://uploads-ssl.webflow.com/5dd9d65b578bab1dce20a97b/5effd70f6dc9fc2db7889b30_readmeImage.png)
 
 ## Available Scripts
 
